@@ -114,6 +114,6 @@ function countProfit(shoppers) {
     // you can only write your code here!
 }
 // console.log(countProfit([{name: 'Windi', product: 'Sepatu Stacattu', amount: 2}, {name: 'Vanessa', product: 'Sepatu Stacattu', amount: 3}, {name: 'Rani', product: 'Sweater Uniklooh', amount: 2}]))
-countProfit([{name: 'Windi', product: 'Sepatu Stacattu', amount: 2}, {name: 'Vanessa', product: 'Sepatu Stacattu', amount: 3}, {name: 'Rani', product: 'Sweater Uniklooh', amount: 2}])
+// countProfit([{name: 'Windi', product: 'Sepatu Stacattu', amount: 2}, {name: 'Vanessa', product: 'Sepatu Stacattu', amount: 3}, {name: 'Rani', product: 'Sweater Uniklooh', amount: 2}])
 
-// countProfit([{name: 'Windi', product: 'Sepatu Naiki', amount: 5}]);
+countProfit([{name: 'Windi', product: 'Sepatu Naiki', amount: 5}]);
